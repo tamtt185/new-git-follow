@@ -1,1 +1,1 @@
-nano
+fix init
